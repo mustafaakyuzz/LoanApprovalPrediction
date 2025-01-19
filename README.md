@@ -1,4 +1,4 @@
-# Loan Approval Prediction Project
+# Loan Approval Prediction Project - EN
 
 ## Project Overview
 This project involves predicting loan approval statuses using machine learning models. The dataset contains information about applicants and their loan details. The final model achieves an accuracy score of **0.94**.
@@ -40,7 +40,7 @@ The Random Forest Classifier effectively predicts loan approval statuses with hi
 
 ---
 
-# Kredi Onayı Tahmin Projesi
+# Kredi Onayı Tahmin Projesi - TR
 
 ## Proje Genel Bakış
 Bu proje, makine öğrenmesi modellerini kullanarak kredi onayı durumlarını tahmin etmeyi amaçlar. Veri seti, başvuru sahipleri ve kredi detayları hakkında bilgiler içermektedir. En son karar verilen modelde, **0.94 doğruluk skoru**na ulaşmıştır.
